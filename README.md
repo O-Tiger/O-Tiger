@@ -22,4 +22,4 @@ Este é um projeto React + Vite que exibe um site pessoal.
 ---
 
 # SITE 
-- [Sobre mim](link)
+- [Sobre mim](https://o-tiger.github.io/O-Tiger/)
