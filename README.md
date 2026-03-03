@@ -52,10 +52,10 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 | Project | Description | Stack |
 |---|---|---|
-| [🐯 TigerOnDemand](https://github.com/O-Tiger/TigerOnDemand) | On-demand service platform | JS / Web |
+| [🐯 TigerOnDemand](https://o-tiger.github.io/TigerOnDemand/) | On-demand service platform | JS / Web |
 | [🌿 NexusSlime](https://github.com/O-Tiger/NexusSlime) | Minecraft plugin with advanced features | Java / PaperMC |
-| [📚 MagnatasWiki](https://github.com/O-Tiger/MagnatasWiki) | Wiki platform | JavaScript |
-| [🎮 NeoSlime](https://o-tiger.github.io/NeoSlime/) | Web project with live demo | JavaScript |
+| [📚 MagnatasWiki](https://o-tiger.github.io/MagnatasWiki/) | Wiki platform | JavaScript |
+| [🎮 NeoSlime](https://nexusslimewebstore.onrender.com) | Web project with live demo | JavaScript |
 
 **NexusSlime build status:**
 [![NexusSlime CI](https://github.com/O-Tiger/NexusSlime/actions/workflows/ci.yml/badge.svg)](https://github.com/O-Tiger/NexusSlime/actions/workflows/ci.yml)
