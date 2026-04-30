@@ -18,7 +18,7 @@
 
 Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things across the stack — from Minecraft plugins in Java to web apps with React and automated workflows with GitHub Actions.
 
-- 🔭 Currently working on **NexusSlime** and **TigerOnDemand**
+- 🔭 Currently working on **NexusPrism** and **TigerOnDemand**
 - 🌱 Always learning something new
 - ⚡ I like clean code, good automation, and servers that don't crash at 3am
 
