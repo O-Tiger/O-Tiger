@@ -18,9 +18,10 @@
 
 Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things across the stack — from Minecraft plugins in Java to web apps with React and automated workflows with GitHub Actions.
 
-- 🔭 Currently working on **NexusPrism** and **TigerOnDemand**
+- 🔭 Currently building **NexusPrism** — a 36-module Minecraft plugin ecosystem
 - 🌱 Always learning something new
 - ⚡ I like clean code, good automation, and servers that don't crash at 3am
+- 🔒 Most of my work lives in private repos — contributions are real, just hidden
 
 ---
 
@@ -28,6 +29,7 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +41,9 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 ### Backend & Infra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -50,16 +55,14 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [🐯 TigerOnDemand](https://o-tiger.github.io/TigerOnDemand/) | On-demand service platform | JS / Web |
-| [🌿 NexusSlime](https://github.com/O-Tiger/NexusSlime) | Minecraft plugin with advanced features | Java / PaperMC |
-| [📚 MagnatasWiki](https://o-tiger.github.io/MagnatasWiki/) | Wiki platform | JavaScript |
-| [🎮 NeoSlime](https://nexusslimewebstore.onrender.com) | Web project with live demo | JavaScript |
-
-**NexusSlime build status:**
-[![NexusSlime CI](https://github.com/O-Tiger/NexusSlime/actions/workflows/ci.yml/badge.svg)](https://github.com/O-Tiger/NexusSlime/actions/workflows/ci.yml)
-[![NexusSlime Release](https://github.com/O-Tiger/NexusSlime/actions/workflows/release.yml/badge.svg)](https://github.com/O-Tiger/NexusSlime/actions/workflows/release.yml)
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🎮 NexusPrism | 36-module Minecraft plugin — economy, MMO, clans, custom bosses and more | Java / PaperMC / Maven | 🔒 Private |
+| 🌐 NexusPrism Webstore | Player store with Discord OAuth, Turnstile, MercadoPago | Python / Flask / PostgreSQL | 🔒 Private · [Live](https://nexusprismstore.up.railway.app) |
+| 🤖 NexusPrismAI | Discord bot — staff apps, tickets, announcements, automod, cinema | Python / discord.py | 🔒 Private |
+| 📡 nexus-lynx | Twitch stream panel + Lynx AI integration | Python / Flask / TwitchIO | 🔒 Private |
+| 🧩 [NexusPrism Addon Example](https://github.com/O-Tiger/NexusPrism-Addon-Example) | Public SDK example for NexusPrism addons | Java / Maven | Public |
+| 📚 [NexusWiki](https://o-tiger.github.io/NexusWiki/) | NexusPrism documentation wiki | Markdown / GitHub Pages | Public |
 
 ---
 
@@ -67,11 +70,11 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 <div align="center">
 
-![O-Tiger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=O-Tiger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![O-Tiger's GitHub Stats](https://nexus-lynx.up.railway.app/github/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Tiger&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://nexus-lynx.up.railway.app/github/langs.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=O-Tiger&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://nexus-lynx.up.railway.app/github/streak.svg)
 
 </div>
 
