@@ -2,14 +2,14 @@
 
 Full-stack developer in São Paulo, Brazil, focused on modular architectures, APIs and service integrations. I build and run my own platforms in production: Java and Python backends, React and TypeScript frontends, payments, OAuth and CI/CD.
 
-Currently in IT support at Cartório de Santana (via mknod) and studying Systems Analysis and Development (ADS) at FIAP. Open to full-time roles and PJ (contractor) engagements, and I take on freelance project requests through [TigerRequests](https://tigerrequests.up.railway.app).
+Currently in IT support at Cartório de Santana (via Mknod) and studying Systems Analysis and Development (ADS) at FIAP. Open to full-time roles and PJ (contractor) engagements, and I take on freelance project requests through [TigerRequests](https://tigerrequests.up.railway.app).
 
 [Portfolio](https://o-tiger.github.io/O-Tiger/) · [LinkedIn](https://www.linkedin.com/in/paulohsmelo/) · [GitHub](https://github.com/O-Tiger)
 
 ## Experience
 
-**IT Support (PJ), Mknod — Cartório de Santana** · Sep 2026 – Present
-Technical support and helpdesk for the users at Cartório de Santana, a Mknod client.
+**IT Support (PJ), Mknod — at client Cartório de Santana** · Sep 2026 – Present
+Working as a contractor (PJ) for Mknod, providing IT support and helpdesk at its client Cartório de Santana.
 
 **IT Support Intern, ISEP** · Feb 2026 – Aug 2026
 Technical support and internal infrastructure. On my own initiative, beyond the internship scope, I also built and shipped three production web apps:
@@ -22,7 +22,7 @@ Technical support and internal infrastructure. On my own initiative, beyond the 
 **NexusPrism** · Java 21, Python, Flask, PostgreSQL · private
 A modular platform built as a Maven monolith of 30 modules (API / core / integrations), with CI on GitHub Actions, semantic versioning and ADRs. It includes a Flask and PostgreSQL webstore with Stripe and MercadoPago checkout, an admin panel, rate limiting, restricted CORS and security headers; Discord and Twitch services with a bidirectional event bridge; and an LLM content service (Groq). Services deploy to Railway; docs at [wiki.nexusheim.com](https://wiki.nexusheim.com/).
 
-**DevDash** · Express, TypeScript, SQLite · private
+**DevDash** · Express, TypeScript, SQLite · Railway · private
 A developer operations dashboard that aggregates deploys, repositories and build status from GitHub, Netlify and Railway. OAuth 2.0 (GitHub, Google), JWT in httpOnly cookies, Zod input validation, Helmet and per-route rate limiting.
 
 **Nexora-EDU** · Next.js 15, React 19, Prisma, PostgreSQL · [public](https://github.com/O-Tiger/Nexora-EDU)
