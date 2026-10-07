@@ -18,7 +18,7 @@
 
 Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things across the stack — from Minecraft plugins in Java to web apps with React and automated workflows with GitHub Actions.
 
-- 🔭 Currently building **NexusPrism** — a 36-module Minecraft plugin ecosystem
+- 🔭 Currently building **NexusPrism** — a 30-module Minecraft plugin ecosystem, and **Nexora-EDU**, a multi-tenant education platform
 - 🌱 Always learning something new
 - ⚡ I like clean code, good automation, and servers that don't crash at 3am
 - 🔒 Most of my work lives in private repos — contributions are real, just hidden
@@ -57,12 +57,14 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🎮 NexusPrism | 36-module Minecraft plugin — economy, MMO, clans, custom bosses and more | Java / PaperMC / Maven | 🔒 Private |
-| 🌐 NexusPrism Webstore | Player store with Discord OAuth, Turnstile, MercadoPago | Python / Flask / PostgreSQL | 🔒 Private · [Live](https://nexusprismstore.up.railway.app) |
+| 🎮 NexusPrism | 30-module Minecraft plugin — economy, MMO, clans, custom bosses and more | Java / PaperMC / Maven | 🔒 Private |
+| 🌐 NexusPrism Webstore | Player store with Discord OAuth, Turnstile, MercadoPago | Python / Flask / PostgreSQL | 🔒 Private · [Live](https://store.nexusheim.com) |
 | 🤖 NexusPrismAI | Discord bot — staff apps, tickets, announcements, automod, cinema | Python / discord.py | 🔒 Private |
 | 📡 nexus-lynx | Twitch stream panel + Lynx AI integration | Python / Flask / TwitchIO | 🔒 Private |
-| 🧩 [NexusPrism Addon Example](https://github.com/O-Tiger/NexusPrism-Addon-Example) | Public SDK example for NexusPrism addons | Java / Maven | Public |
-| 📚 [NexusWiki](https://o-tiger.github.io/NexusWiki/) | NexusPrism documentation wiki | Markdown / GitHub Pages | Public |
+| 🏫 [Nexora-EDU](https://github.com/O-Tiger/Nexora-EDU) | Multi-tenant platform — online courses and K-12 school administration | Next.js / Prisma / PostgreSQL | Public |
+| 🧾 TigerRequests | Request and payments platform — admin panel, PIX and Stripe, Discord notifications | Node.js / Express / React / PostgreSQL | 🔒 Private |
+| 🧩 [NexusPrism Addon Example](https://github.com/TigerDevLabs/NexusPrism-Addon-Example) | Public SDK example for NexusPrism addons | Java / Maven | Public |
+| 📚 [NexusWiki](https://wiki.nexusheim.com/) | NexusPrism documentation wiki | Markdown / GitHub Pages | Public |
 
 ---
 
@@ -70,11 +72,11 @@ Hey! I'm **O-Tiger**, a developer from 🇧🇷 Brazil who loves building things
 
 <div align="center">
 
-![O-Tiger's GitHub Stats](https://nexus-lynx.up.railway.app/github/stats.svg)
+![O-Tiger's GitHub Stats](https://lynx.nexusheim.com/github/stats.svg)
 
-![Top Languages](https://nexus-lynx.up.railway.app/github/langs.svg)
+![Top Languages](https://lynx.nexusheim.com/github/langs.svg)
 
-![GitHub Streak](https://nexus-lynx.up.railway.app/github/streak.svg)
+![GitHub Streak](https://lynx.nexusheim.com/github/streak.svg)
 
 </div>
 
