@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Inter, Segoe UI, Arial, sans-serif">
+  <rect width="1200" height="750" fill="#f3f4f8"/>
+  <text x="48" y="78" font-size="40" font-weight="700" fill="#1c1c1a">Nexora-EDU</text>
+  <text x="48" y="116" font-size="22" fill="#5c6066">Multi-tenant education platform</text>
+
+  <text x="48" y="190" font-size="22" font-weight="600" fill="#1e3a8a">Tenants (schools)</text>
+  <g font-size="22" fill="#1c1c1a">
+    <rect x="48" y="214" width="220" height="80" rx="14" fill="#ffffff" stroke="#c9ccd6" stroke-width="2"/><text x="158" y="262" text-anchor="middle">School A</text>
+    <rect x="48" y="316" width="220" height="80" rx="14" fill="#ffffff" stroke="#c9ccd6" stroke-width="2"/><text x="158" y="364" text-anchor="middle">School B</text>
+    <rect x="48" y="418" width="220" height="80" rx="14" fill="#ffffff" stroke="#c9ccd6" stroke-width="2"/><text x="158" y="466" text-anchor="middle">School C</text>
+  </g>
+
+  <g stroke="#9aa0b0" stroke-width="3" fill="none">
+    <path d="M268 254 H330 V356 H372"/>
+    <path d="M268 356 H372"/>
+    <path d="M268 458 H330 V356"/>
+    <path d="M768 356 H830"/>
+    <path d="M1016 356 H1048"/>
+  </g>
+
+  <rect x="372" y="150" width="396" height="410" rx="20" fill="#ffffff" stroke="#c9ccd6" stroke-width="2"/>
+  <text x="400" y="198" font-size="26" font-weight="700" fill="#1e3a8a">Next.js 15 app</text>
+  <text x="400" y="232" font-size="20" fill="#5c6066">React 19 · App Router · NextAuth</text>
+  <rect x="400" y="262" width="340" height="110" rx="14" fill="#e8edfb"/>
+  <text x="424" y="304" font-size="24" font-weight="600" fill="#1e3a8a">Courses (EAD)</text>
+  <text x="424" y="340" font-size="20" fill="#5c6066">online courses</text>
+  <rect x="400" y="388" width="340" height="110" rx="14" fill="#e8edfb"/>
+  <text x="424" y="430" font-size="24" font-weight="600" fill="#1e3a8a">School administration</text>
+  <text x="424" y="466" font-size="20" fill="#5c6066">K-12 school secretariat</text>
+  <text x="400" y="534" font-size="20" fill="#5c6066">One system, many schools</text>
+
+  <rect x="830" y="300" width="186" height="112" rx="16" fill="#ffffff" stroke="#c9ccd6" stroke-width="2"/>
+  <text x="923" y="350" font-size="26" font-weight="700" text-anchor="middle" fill="#1c1c1a">Prisma</text>
+  <text x="923" y="384" font-size="19" text-anchor="middle" fill="#5c6066">ORM</text>
+
+  <rect x="1048" y="300" width="112" height="112" rx="16" fill="#1e3a8a"/>
+  <text x="1104" y="348" font-size="20" font-weight="600" text-anchor="middle" fill="#ffffff">Postgre</text>
+  <text x="1104" y="376" font-size="20" font-weight="600" text-anchor="middle" fill="#ffffff">SQL</text>
+
+  <g font-size="19" fill="#ffffff">
+    <rect x="48" y="620" width="150" height="36" rx="18" fill="#1e3a8a"/><text x="123" y="645" text-anchor="middle">Turborepo</text>
+    <rect x="212" y="620" width="150" height="36" rx="18" fill="#1e3a8a"/><text x="287" y="645" text-anchor="middle">TypeScript</text>
+  </g>
+</svg>
